@@ -10,8 +10,6 @@
 - Design based estimation in staggered rollout designs
   - Roth and Sant’Anna (2021a) “Efficient estimation for staggered rollout designs”, Working paper
   - https://github.com/jonathandroth/staggered 
-- Sensitivity analysis for unconfoundedness
-  - Zhang, Diegert, Masten, and Poirier (2021) “tesensitivity: A Stata package for assessing sensitivity to the unconfoundedness assumption”
 - Falsification of the LATE model
   - Mourifi´e and Wan (2017) “Testing local average treatment effect assumptions”, The Review of Economics and Statistics
   -  https://www.dropbox.com/sh/bpwq8geudouzshv/AABixVZt_jBJu4BkiDYZ5YTxa
@@ -24,4 +22,6 @@
   - teffects overlap, Stata Manual
 - Rosenbaum bounds on design based p-values
   - Becker and Caliendo (2007) “Sensitivity analysis for average treatment effects”, The Stata Journal, section 4 
+- Sensitivity analysis for unconfoundedness
+  - Zhang, Diegert, Masten, and Poirier (2021) “tesensitivity: A Stata package for assessing sensitivity to the unconfoundedness assumption”
 
