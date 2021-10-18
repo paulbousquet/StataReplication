@@ -16,8 +16,8 @@
   - Mourifi´e and Wan (2017) “Testing local average treatment effect assumptions”, The Review of Economics and Statistics
   -  https://www.dropbox.com/sh/bpwq8geudouzshv/AABixVZt_jBJu4BkiDYZ5YTxa
 - Identification via functional form restrictions
- - McCarthy, Millimet, and Tchernis (2014) “The bmte command: Methods for the estimation of treatment effects when exclusion restrictions are unavailable”, The Stata Journal
- - Baum and Lewbel (2019) “Advice on using heteroskedasticity-based identification”, The Stata Journal
+  - McCarthy, Millimet, and Tchernis (2014) “The bmte command: Methods for the estimation of treatment effects when exclusion restrictions are unavailable”, The Stata Journal
+  - Baum and Lewbel (2019) “Advice on using heteroskedasticity-based identification”, The Stata Journal
 - Monotone IV
   - Chernozhukov, Kim, Lee, and Rosen (2015) “Implementing intersection bounds in Stata”, The Stata Journal
 - Overlap plots
