@@ -1,4 +1,4 @@
-# More code and details coming soon 
+
 
 - Design based p-values for the sharp null of no effect in an RCT
   - Heß (2017) “Randomization inference with Stata: A guide and software”, The Stata Journal, section 4.1
